@@ -1,0 +1,81 @@
+// WMP2
+// ACKWED V 5.46.01
+// Created 18.08.2005
+
+version 510
+
+blocks 1
+entities 1
+objects 2
+
+wed {
+	palette {
+		00 00 00  0f 0f 0f  1b 1b 1b  2b 2b 2b  3b 3b 3b  4b 4b 4b  5b 5b 5b  67 67 67  77 77 77  87 87 87  97 97 97  a3 a3 a3  b3 b3 b3  c3 c3 c3  d3 d3 d3  e3 e3 e3  
+		0b 0b 0f  13 13 1b  1f 1f 27  2b 2b 37  37 37 43  43 43 53  4f 4f 5f  5b 5f 6b  67 6b 7b  77 7b 87  83 87 97  93 97 a3  9f a3 af  af b3 bf  bf c3 cb  cf d3 db  
+		00 0b 0f  00 13 1b  07 1f 2b  0b 2b 37  13 3b 47  1b 47 53  23 53 5f  33 5f 6f  3f 6f 7f  4f 7f 8f  63 8f 9f  73 9f af  87 af bf  97 bf cf  af cf df  c3 e3 ef  
+		20 18 14  2f 23 1f  3b 2f 27  47 37 33  53 43 3b  5f 4b 43  6b 57 4f  77 63 5b  83 6f 63  8f 77 6f  9b 83 7b  a7 8f 87  b3 9b 93  bf a7 9f  cf b7 af  db c3 bb  
+		23 1b 13  2f 23 1b  3b 2f 23  47 3b 2b  53 43 33  5f 4f 3b  6b 5b 47  7b 67 4f  87 73 5b  93 7f 67  9f 8b 73  ab 97 7f  b7 a3 8b  c3 af 97  cf bb a3  df cb b3  
+		23 1b 13  2f 23 1b  3f 2f 23  4b 3b 2b  57 47 33  67 53 3f  73 5f 47  83 6b 53  8f 77 5b  9f 83 67  ab 8f 6f  bb 9f 7b  c7 ab 87  d7 b7 93  e3 c3 9f  f3 d3 ab  
+		1b 17 13  27 1f 1b  2f 2b 23  3b 37 2b  47 3f 37  53 4b 3f  5f 57 4b  6b 63 53  77 6f 5f  83 7b 6b  8f 83 77  9b 93 83  a7 9f 8b  b3 ab 9b  bf b3 a3  cb c3 b3  
+		17 19 17  23 27 23  2b 33 2b  37 3f 37  43 4b 43  4f 5b 4f  5b 67 5b  67 73 67  73 7f 73  83 8b 83  8f 9b 8f  9b a7 9b  ab b3 ab  b7 bf b7  c3 cb c3  d3 db d3  
+		17 17 0f  23 23 17  2f 2f 1f  3b 3b 27  47 47 33  53 53 3b  5f 5f 47  6b 6b 4f  7b 7b 5b  87 87 67  93 93 73  a3 a3 7f  af af 8b  bb bb 97  c7 c7 a3  d7 d7 b3  
+		0b 17 17  13 23 23  1b 33 33  23 3f 3f  2f 4f 4f  3b 5f 5f  47 6b 6b  53 7b 7b  5f 87 87  6f 97 97  7b a7 a7  87 b3 b3  97 bf bf  a7 cb cb  b7 d7 d7  cb e7 e7  
+		e3 e3 e3  eb e7 e7  f3 f3 f3  ff fb fb  d3 e3 db  df eb e3  eb f3 ef  f7 ff fb  e7 cf af  ef df bf  f7 eb d3  ff fb e7  c7 d7 e3  d3 e3 eb  e3 f3 f3  f3 ff ff  
+		18 05 05  43 0f 0f  57 0f 0f  6f 13 13  87 13 13  93 13 13  a3 13 13  af 13 13  bf 13 13  d7 0f 0f  ef 0b 0b  ff 00 00  ff 37 37  ff 5f 5f  ff 77 77  ff 8f 8f  
+		17 13 07  23 1b 0b  33 27 13  43 2f 1b  53 37 27  63 3f 2f  73 47 3b  83 4f 4b  93 57 57  9f 67 6f  af 77 83  bf 87 97  cf 9b af  df ab c7  ef bf db  ff d7 f3  
+		24 14 04  33 1f 07  43 2b 0b  4f 37 0b  5b 43 0b  6b 53 0f  7b 5f 13  8b 6f 13  9b 83 17  ab 93 17  bb a7 1b  cb bb 1f  d7 c7 3f  e3 d7 5f  ef e7 83  ff f7 af  
+		17 13 07  47 2b 0f  67 37 13  87 3f 13  a7 43 13  c7 3f 13  cf 57 1b  db 73 27  e7 8f 33  f3 ab 3f  f7 c3 57  fb d7 6f  ff eb 8b  ff f3 ab  ff fb cf  ff ff f3  
+		00 8d 96  00 af ba  00 cf dc  3f f4 ff  00 87 00  00 c3 00  00 ff 00  af ff b3  00 37 b4  00 40 d2  00 4a f0  23 66 ff  be be be  d2 d2 d2  eb eb eb  ff ff ff  
+	}
+
+	wad {
+		0 0 0 0 0
+		<J:\A419\wads\wok.wad> 1
+	}
+}
+
+block 0 {
+	vertices 8
+	faces 6
+	188 -188 1   188 188 1   -188 -188 1
+	-188 188 1   188 -188 -1   188 188 -1
+	-188 -188 -1   -188 188 -1
+	4  1 0 2 3 : *waterswamp 0 0 0 1 1 : 1001 0 50 ndef
+	4  0 1 5 4 : transparent 0 0 0 1 1 : 1011 0 50 ndef
+	4  2 0 4 6 : transparent 0 0 0 1 1 : 1011 0 50 ndef
+	4  3 2 6 7 : transparent 0 0 0 1 1 : 1011 0 50 ndef
+	4  1 3 7 5 : transparent 0 0 0 1 1 : 1011 0 50 ndef
+	4  4 5 7 6 : transparent 0 0 0 1 1 : 1011 0 50 ndef
+	{
+		0000
+		ndef
+		0
+	}
+}
+
+level 0 {
+	<swamp.$$w>
+	<palette2.lmp>
+	30
+	0
+	60
+	<ndef>
+	0 0 0
+	0 0 0
+	0 0 0
+	0 0 0
+	0 0 0
+	0 0 0
+}
+
+object 0 {  // Root
+	(0 0 0) (0 0 0) (1 1 1)
+	object 1
+	level 0
+}
+
+object 1 {
+	(8 0 0) (0 0 0) (1 1 1)
+	block 0
+}
+

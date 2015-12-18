@@ -1,0 +1,47 @@
+Bugfixes and changes Version 1.1:
+- Pressing cancel button during level selection caused buggy behaviour
+- Golems cannot exceed their health over the maximum limit anymore
+- Golems have less health and are easier to kill
+- Bug in Wiimote gesture detection fixed
+- Wiimote gesture detection improved
+- crashes with activated Wiimote fixed
+
+Bugfixes and changes Version 1.0:
+- Registration menu added
+- support for license key files added
+- First commercial release
+
+Bugfixes and changes Version 1.5d:
+- player attacks now steal less crystals
+- Equalize event does not equalize at 100% anymore to avoid easy last second wins
+- Monopoly event now steals less crystals
+- Computer players behave fairer in battle and are easier to hit
+
+Bugfixes and changes Version 1.4d:
+- several fonts exchanged
+- ogre and viking added
+- extended demoplay added
+- demo now features two selectable characters and two levels
+
+Bugfixes and changes Version 1.3dw:
+- Quick and dirty hack to support Wiimote was implemented
+- Note that this is just a test. It is not sure whether Wiimote support will make it
+  into the final version (probably not... at least not officially)
+ 
+Bugfixes and changes Version 1.2d:
+
+- shadows are now aligned correctly to avoid floating effect of players
+- frame limitation could cause jerks on very fast systems, limit removed for fullscreen
+- default resolution changed to 1024x768
+- setting resolution via command line works now
+- chm manual added
+
+Bugfixes and changes Version 1.1d:
+
+- Camera jerks removed when teleporting
+- crashes with high framerates fixed
+- AI does not get stuck as often anymore
+- AI behaves now correctly after knockdown
+- FPS are now limited to 100
+- Resource structure changed
+- Version information added

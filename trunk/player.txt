@@ -1,0 +1,6 @@
+MDLNAME,CNT,DIRrelCNT,CNT2,panelEXT
+knight,96,109,108,tga
+orc,138,216,210,tga
+ogre,13,20,11,tga
+viking,96,109,108,tga
+ENDOFFILE,DO,NOT,EDIT,!  

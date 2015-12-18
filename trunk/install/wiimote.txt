@@ -1,0 +1,56 @@
+Four Little Warriors - Wiimote Demo
+-----------------------------------
+
+Requirements:
+* Wiimote and Nunchuk
+* compatible Bluetooth adapter 
+* fast PC to avoid laggy controls
+
+Startup:
+ Make sure Wiimote is connected properly with the PC. If your bluetooth
+ stack cannot find the Wiimote, refer to the manual of your stack or
+ try a different brand. For a compatibility list check out: 
+ http://www.wiili.org/index.php/Compatible_Bluetooth_Devices
+ 
+ Don't disconnect the Wiimote or Bluetooth dongle while playing.
+ Start the game with "-d wiimote". Wiimote will be activated 
+ automatically. For the game rules and more please check the manual.
+ This is only a small reference for controlling the game with 
+ the Wiimote.
+
+Navigating in menues:
+ The Wiimote buttons are mapped to keyboard buttons.
+ A -> Enter
+ B -> Esc
+ Keypad -> Cursor keys
+
+Selecting player:
+ Use +/- buttons of Wiimote to select player you wish to control.
+ The selected player is indicated by the LEDs of the Wiimote.
+ To activate a player, press the HOME button.
+ You can now use the Wiimote's keypad for navigation.
+ Press HOME again to finish character selection.
+
+Playing the game:
+ Use the analog stick of Nunchuk to navigate.
+ Normal attack is done by slashing from up to down.
+ Special attack is triggered by slashing from right to left.
+ For blocking turn the Nunchuk so that c and Z button show
+ towards sky and the analog stick points towards you.
+ 
+ Note: Gestures are not detected all that well yet. Don't move
+ the Wiimote to hastily, otherwise moves won't be detected.
+ 
+Problems:
+* Detection of downward slashes is very fussy
+* currently only single Wiimote supported 
+* Since this is an experimental hack, original controls are not disabled
+  when playing with Wiimote.
+* Turning the Nunchuk doesn't seem to work that good while playing,
+  maybe the block activation will be changed to another gesture.
+
+
+Wiimote plugin is based on cWiimote source by Kevin Forbes.
+I had some more help from ChrisB to get it to work.
+
+"Wiimote" and "Nunchuk" are properties of Nintendo.

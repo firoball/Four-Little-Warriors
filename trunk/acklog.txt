@@ -1,0 +1,44 @@
+Log of A7 Engine 7.07.5 run at Sat Dec 29 14:39:13 2007
+Firo on Windows NT/2000/XP version 5.1 Build 2600
+Options warriors.wdl -eq -diag -nj -ta
+
+App d:\a7beta\acknex.exe in E:\projects\Acknex\Warriors\
+MM mixer opened
+DSOUND device opened
+DI interface opened
+Start Window opened
+(c)Conitec . Dieburg . San Diego . www.3dgamestudio.com
+A7 Engine - Pro Edition V7.07.5 - Dec 17 2007
+Development version
+Registered to: Robert Jäger
+
+DI Microsoft-PC-Joysticktreiber 0 axes 0 buttons initialized
+Mouse found
+Realtek AC97 Audio opened
+NVIDIA GeForce 7900 GT pure T&L device 1ff9 detected
+D3D device NVIDIA GeForce 7900 GT 1ff9 selected.
+PATH d:\a7beta\code\
+Compiling WARRIORS.WDL - [Esc] to abort..
+PATH models\
+PATH samples\
+PATH entities\
+PATH panels\
+PATH sprites\
+PATH system\
+PATH music\....................................................................
+Running WARRIORS.WDL.
+70 objects
+D3D_Init Window: 1024x768x1244820 -> Window: 1x1024x768x32
+Video memory found: 479 MB
+Main started
+Main loop.........ok
+1st frame - 490496K.. ok
+Normal exit
+Close level,DLL,objects
+Free input,funcs,panels,defs,syns,views,strings,vars..ok
+Free sounds,bmaps,fonts,hash,defs1,script..ok
+Close dx,multimedia,D3D,engine,physics,nexus..ok
+A7 Engine - Pro Edition V7.07.5 - Dec 17 2007
+(c)Conitec . Dieburg . San Diego . www.3dgamestudio.com
+Registered to: Robert Jäger
+Close window

@@ -1,0 +1,63 @@
+	
+
+----------------------
+
+- 4 Spieler auf einem PC
+- 2 oder 3 verschiedene Krieger zur Auswahl
+- in der ersten Version 4 Arenen
+- über 10 verschiedene Gegenstände zur Beeinflussung des Spielverlaufs (z.B. Kamerarotation, Geschwindigkeitsänderung oder Positionswechsel)
+- Fernwaffen
+- normaler Angriff, Spezialattacke, Block
+- chaotisches, ungewohntes Gameplay
+- Wahlweise CD-Audio oder XM-Player für Hintergrundmusik
+- Auflösungen von 640x480x16 bis 1600x1200x32
+- Optionsmenü für diverse Spieleinstellungen
+
+-----------------------
+
+- Acknex 5.52
+- BASS Player
+- DirectX 8.1
+
+-----------------------
+
+- AI Verbesserungen
+- ordentliches Balancing der Levels
+- Überarbeitung der 3 verbleibenden Levels
+- Startmenü zum Einstellen diverser command line Parameter
+
+Evtl. für spätere Releases:
+- weitere Spielmodi: Golem Hunt, Last man standing
+- angedachtes Addon mit 4 weiteren Levels: Schlachtfeld, Burg, Eisland, Kerker
+- weitere Charaktere zur Auswahl
+- Fun Addons zum verändern der Gegenstandsgrafiken im Spiel
+
+Keine Hoffnung besteht für:
+- LAN support
+- Online gaming
+
+------------------------
+
+- Acknex Toolchain (WED, MED)
+- Cool Edit (Sounds)
+- Paint Shop Pro (Grafiknachbearbeitung)
+- Photoshop LE (Grafiken)
+- Phase5² (Code Editor)
+- Bryce 3D (Scenemaps)
+- Borland C++ Builder (wrapper DLL)
+- Autohotkey (für den Build Prozess)
+- Clickteam Installcreator (Installer)
+
+Welche Tools meine freien Mitarbeiter benutzt haben, weiß ich nicht.
+
+-------------------------
+
+Prozessor 1GHz oder schneller
+64 MB Ram
+10 MB Speicherplatz
+DirectX 8.1 kompatible Grafik- und Soundkarte (Voodoo3 wird noch unterstützt, ist aber nicht empfehlenswert)
+Für ein Spiel zu viert wird mindestens ein Joystick/Gamepad benötigt
+
+Das Spiel dürfte auch noch auf langsameren Rechnern ordentlich laufen, allerdings fehlten mir hierzu die Testmöglichkeiten.
+
+

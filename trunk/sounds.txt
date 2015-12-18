@@ -1,0 +1,53 @@
+--Level Sounds
+
+--Swamp
+Frogs
+Crickets (looping)
+
+--Island
+Sound of Sea (looping)
+Seagulls
+
+--Icelands
+Sound of wind (looping)
+
+--Mountains
+Crows
+Rain (no heavy rain!)
+
+--Space
+Atmospheric sounds (1 or 2)
+
+--Game Elements
+
+--Teleporters
+conventional
+space beam
+medieval
+(all teleport sounds consist start + stop)
+
+--Fighting
+Golem Attack
+Player Attack
+Player Heavy Attack (hits in a circle around the player)
+Player Hit
+Player Blocking
+Golem Hit
+Golem Dies
+
+--Special Items
+Trigger special event
+Collect Item
+Collect Crystal
+Destroy Box
+Respawn Items
+
+
+--Misc Stuff
+
+--Menu Sounds
+
+Selecting up/down
+Selecting left/right
+Accept
+Cancel

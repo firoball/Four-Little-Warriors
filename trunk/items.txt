@@ -1,0 +1,24 @@
+FRAME,SKIN,FLAGS,MDL
+1,1,2,power
+2,1,2,magnet
+2,1,3,cape
+2,1,2,shield
+2,1,2,arrow
+2,2,2,arrow
+2,1,2,exchange
+2,1,2,rotate
+2,1,2,monopoly
+2,1,2,equalize
+2,1,2,upsidedn
+2,1,2,spower
+2,1,2,mine
+2,1,3,fireball
+2,1,3,acidball
+2,1,2,lightnin
+ENDOFFILE,DO,NOT,EDIT
+FLAGS, , ,
+0=NONE, , ,
+1=TRANSPARENT, , ,
+2=BRIGHT, , ,
+4=OVERLAY, , ,
+8=FLARE, , ,

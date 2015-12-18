@@ -1,0 +1,28 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=manual.chm
+Contents file=content.hhc
+Default Window=test
+Default topic=info.htm
+Display compile progress=No
+Language=0x809 Englisch (Groﬂbritannien)
+Title=Four Little Warriors - Manual
+
+[WINDOWS]
+test="Four Little Warriors - Manual","content.hhc",,"info.htm",,,,,,0x2020,150,0x3004,[0,0,800,600],,,,,,,0
+
+
+[FILES]
+options.htm
+credits.htm
+howtoplay.htm
+info.htm
+items2.htm
+items.htm
+updates.htm
+command.htm
+quickstart.htm
+order.htm
+
+[INFOTYPES]
+

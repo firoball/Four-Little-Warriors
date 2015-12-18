@@ -1,0 +1,3 @@
+
+< video_mode=7>
+FONTTEST.WDL 24:0  (): Read only video_mode   
