@@ -1,0 +1,7 @@
+Either copy "key/4lwkey" to "config" folder of installed game, 
+or enter following key once at the first start of the game:
+
+Name: Freeware
+Code: 11540954148
+
+(case sensitive!)
